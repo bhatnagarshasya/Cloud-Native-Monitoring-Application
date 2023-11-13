@@ -8,4 +8,9 @@
 - Docker and Kubectl installed.
 - Code editor (Vscode)
 
-# Let’s Start the Project 
+Progress:
+Made an AWS account with programmatic access and aws configured with CLI
+Python and other dependencies were installed through VScode with Pip
+Docker and kubectl were installed already.
+Made the application on python using Flask.
+Successfully containerized the application.
